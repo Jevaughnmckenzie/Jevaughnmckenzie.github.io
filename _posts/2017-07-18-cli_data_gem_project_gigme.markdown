@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "CLI Data Gem Project: Gigme"
-date:   2017-07-18 02:07:39 +0000
+date:   2017-07-17 22:07:41 -0400
 ---
 
 

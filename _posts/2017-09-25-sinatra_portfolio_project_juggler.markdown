@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Sinatra Portfolio Project: Juggler"
-date:   2017-09-26 00:59:30 +0000
+date:   2017-09-25 20:59:30 -0400
 ---
 
 	

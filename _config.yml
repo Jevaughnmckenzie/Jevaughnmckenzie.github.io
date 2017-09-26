@@ -1,0 +1,21 @@
+# Site settings
+title: Jevaughn Talks Tech
+header-img: img/home-bg.png
+email: jmckenzie1004@gmail.com
+copyright_name: Jevaughnmckenzie
+description: > # this means to ignore newlines until "baseurl:"
+  Documenting my growth as a developer
+baseurl: "" # the subpath of your site, e.g. /blog
+twitter_username: JevMcK
+github_username:  Jevaughnmckenzie
+learn_profile: Jevaughnmckenzie
+email_username: jmckenzie1004@gmail.com
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+paginate: 5
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+
+gems: [jekyll-paginate, jekyll-feed]
